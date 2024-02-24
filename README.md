@@ -21,9 +21,9 @@
 3. **Install dependencies:**
   Copy code
   npm install
-  # or
   yarn
-4. **Run:**
+
+5. **Run:**
   npm run dev
 
 ### Enter the backend folder
