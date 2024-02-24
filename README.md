@@ -6,17 +6,12 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js (version x.x.x)
+- Node.js
 - npm or yarn
 
 ### Installation
@@ -28,4 +23,5 @@
   npm install
   # or
   yarn
-
+4. **Run:**
+  npm run dev
