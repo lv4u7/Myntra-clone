@@ -25,3 +25,7 @@
   yarn
 4. **Run:**
   npm run dev
+
+### Enter the backend folder
+run the backend server:
+  node app.js
